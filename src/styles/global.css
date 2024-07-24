@@ -1,3 +1,64 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+:root, 
+.root,
+#root,
+#docs-root {
+  /* Breakpoints */
+--mobile-breakpoint: 800px;
+
+/* Viewport Sizes */
+--desktop-width: 1440px;
+--desktop-height: 850px;
+
+--mobile-width: 375px;
+--mobile-height: 650px;
+
+}
+
+@font-face {
+    font-family: 'Nexa-Bold';
+    src: local('Nexa-Bold'), url(/fonts/Nexa-Bold.woff2) format("woff2");
+}
+
+@font-face {
+    font-family: 'Nexa-Light';
+    src: local('Nexa-Light'), url(/fonts/Nexa-Light.woff2) format("woff2");
+}
+
+body {
+    background: linear-gradient(#030712, #0b0b2e);
+}
+main {
+    overflow: hidden;
+}
+.rainbowBorder {
+    border-radius: 9999px;
+    background: linear-gradient(90deg, #02fcef70, #ffb52b70 50%, #a02bfe70);
+    height: 32px;
+    line-height: 0;
+    transition: transform .2s ease-in-out;
+    transform-origin: 0 100%;
+}
+.rainbowBorder span {
+    line-height: 1;
+    margin: 1px;
+    border-radius: 9999px;
+    width: calc(100% - 2px);
+    height: calc(32px - 2px);
+    background-color: #0b0e14;
+}
+
+.text-bronze {
+    color: #dd9072;
+}
+
+.text-silver {
+    color: #c5c3c6;
+}
+
+.text-gold {
+    color: #ffc600;
+}

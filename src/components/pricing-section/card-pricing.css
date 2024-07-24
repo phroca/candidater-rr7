@@ -1,0 +1,10 @@
+
+.bronze {
+    background-image: conic-gradient(#dd9072 20deg, transparent 120deg);
+}
+.silver {
+    background-image: conic-gradient(#c5c3c6 20deg, transparent 120deg);
+}
+.gold {
+    background-image: conic-gradient(#ffc600 20deg, transparent 120deg);
+}
