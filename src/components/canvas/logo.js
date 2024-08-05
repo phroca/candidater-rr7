@@ -3,7 +3,8 @@ import { Canvas, useFrame } from "@react-three/fiber"
 import { OrbitControls, useGLTF } from "@react-three/drei";
 import { useTime } from "framer-motion";
 //import CanvasLoader from "./loader"
-
+//import logo from "../../../static/logo/RR7.gltf"
+//"./static/logo/RR7.gltf"
 const Logo = () => {
 
     const yAngle = 0.1;
@@ -18,7 +19,7 @@ const Logo = () => {
         camera.updateProjectionMatrix();
         camera.lookAt(70, -40, 100);
     });
-    const logo = useGLTF("./static/logo/RR7.gltf");
+    const logo = useGLTF("../../../static/logo/RR7.gltf");
     return (
         <mesh>
             <directionalLight intensity={10} position={[50, 50, 30]} />
