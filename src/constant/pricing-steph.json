@@ -1,0 +1,49 @@
+{
+    "pricings": [
+        {
+            "id": 1,
+            "title": "Formule Bronze",
+            "subtitle": "Bienvenue dans l’équipage RR7",
+            "leadText": "Idéale pour les débutants, cette formule offre des bases solides de trading avec des ressources pédagogiques complètes et l’accès à une communauté active",
+            "listFeatures": [
+                "Accès au Discord privé RR7",
+                "Initiation aux marchés + Open Sessions",
+                "Accès aux Académies de RR7 Trading à Académie 7pt.3",
+                "Suivi 1-1 de 1h / semaine",
+                "Psychologie / Mindset",
+                "Communauté RR7"
+            ],
+            "bgAnimateRadius": "bronze",
+            "link": "https://forms.reform.app/lgi4rr/candidature-steph-bronze/wprk3g"
+        },
+        {
+            "id": 2,
+            "title": "Formule Silver",
+            "subtitle": "Optimisée pour le suivi personnalisé",
+            "leadText": "Parfaite pour les traders intermédiaires, elle propose des cours avancés, des sessions de coaching personnalisées",
+            "listFeatures": [
+                "Tous les avantages <span class='text-bronze'>Bronze</span>",
+                "Suivi 1-1 illimité",
+                "Accès à un module privé et réservé aux membres Silver",
+                "Appels en petit groupe 1 fois / semaine sur des sujets variés"
+            ],
+            "bgAnimateRadius": "silver",
+            "link": "https://forms.reform.app/lgi4rr/candidature-steph-silver/wprk3g"
+        },
+        {
+            "id": 3,
+            "title": "Formule Gold",
+            "subtitle": "Mentorship unique",
+            "leadText": "Conçue pour les traders ambitieux, cette formule premium garantit un mentorat intensif, des stratégies exclusives et un suivi prioritaire pour maximiser les performances.",
+            "listFeatures": [
+                "Tous les avantages <span class='text-bronze'>Bronze</span>",
+                "Suivi 1-1 avec un mentor",
+                "Accès à des informations exclusives",
+                "Privilège lors d’évènement physique",
+                "Suivi jusqu’à la rentabilité"
+            ],
+            "bgAnimateRadius": "gold",
+            "link": "https://forms.reform.app/lgi4rr/candidature-steph-gold/wprk3g"
+        }
+    ]
+}
