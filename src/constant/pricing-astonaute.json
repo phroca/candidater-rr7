@@ -1,0 +1,36 @@
+{
+    "pricings": [
+        {
+            "id": 1,
+            "title": "Offre Cryptonaute",
+            "subtitle": "Offre Cryptonaute",
+            "leadText": "Parfaite pour les investisseurs débutants ou avec un capital modeste, cette offre donne accès aux fondamentaux du monde du Web3.0, avec des ressources pédagogiques et des appels d’équipe réguliers pour un accompagnement interactif.",
+            "listFeatures": [
+                "Accès complet au module d'apprentissage",
+                "Plan d’investissement personnalisable",
+                "Appels d’équipe hebdomadaires (analyse de marché, revue de wallet, FAQ)",
+                "Accès aux opportunités inédites (Airdrops, Presales)",
+                "Contenu éducatif (vidéos et textes)",
+                "Rapport de marché (analyse graphique et fondamentale)",
+                "Accès à la communauté"
+            ],
+            "bgAnimateRadius": "bronze",
+            "link": "https://forms.reform.app/lgi4rr/candidature-rr7-crypto/wprk3g"
+        },
+        {
+            "id": 2,
+            "title": "Offre Cosmonaute",
+            "subtitle": "Offre Cosmonaute",
+            "leadText": "Idéale pour les investisseurs ambitieux et disposant d’un capital conséquent, cette formule avancée garantit un suivi personnalisé avec des rendez-vous individuels et un accès exclusif à une académie de trading pour accélérer leur progression.",
+            "listFeatures": [
+                "Tous les avantages <span class='text-bronze'>Cryptonaute</span>",
+                "Accès à un chat privé réservé aux Cosmonaute",
+                "Suivi 1-1 avec un mentor pour un suivi personnalisé du portefeuille",
+                "Accès à des informations exclusives",
+                "Privilège lors d’évènement physiqu"
+            ],
+            "bgAnimateRadius": "silver",
+            "link": "https://forms.reform.app/lgi4rr/candidature-rr7-crypto/wprk3g"
+        }
+    ]
+}

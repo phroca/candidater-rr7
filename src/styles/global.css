@@ -34,6 +34,21 @@ body {
 main {
     overflow: hidden;
 }
+
+.noises::before{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    content: "";
+    /* opacity of noise  */
+    opacity: .03;  
+    z-index: 1;
+    pointer-events: none;
+    background: url(../images/noise.gif) ;
+}
+
 .rainbowBorder {
     border-radius: 9999px;
     background: linear-gradient(90deg, #02fcef70, #ffb52b70 50%, #a02bfe70);
