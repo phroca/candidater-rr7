@@ -15,7 +15,7 @@ const HeroSection = (props) => {
                             </h3>
                         </div>
                         <h1 className="font-['Nexa-Bold'] font-styling text-white font-display font-effect-hero text-center xl:text-left text-[3rem] md:text-6xl leading-[3rem] md:leading-[4rem] tracking-tight font-gradient">
-                            Choisis la meilleure formule adaptée <br /> selon tes besoins
+                            Ne candidate pas si tu n’es pas prêt à t’investir dans ta propre réussite.
                         </h1>
                         <p className="font-['Nexa-Light'] text-white sans mb-8 mt-4 text-center leading-7 xl:text-left text-base md:text-[1.125rem] md:leading-[1.5] text-slate-11 font-normal">
                             Le choix de ta formation en trading est crucial et doit être parfaitement adapté à ton profil et à tes objectifs. Nous t’offrons la flexibilité de personnaliser ton parcours avec des formules renouvelables et modifiables sous 30 jours, te permettant ainsi d'optimiser ton apprentissage à tout moment.

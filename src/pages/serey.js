@@ -4,6 +4,7 @@ import HeroSection from "../components/hero-section/hero-section"
 import PricingSection from "../components/pricing-section/pricing-section"
 import Seo from "../components/seo"
 import MediaSection from "../components/media-section/media-section"
+import InitiationSection from "../components/initiation-pack/initiation-section"
 
 
 
@@ -15,6 +16,7 @@ const IndexPage = () => {
             <HeroSection />
             <MediaSection />
             <PricingSection />
+            <InitiationSection />
         </Layout>
     )
 }

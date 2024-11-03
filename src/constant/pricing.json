@@ -14,7 +14,7 @@
                 "Communauté RR7"
             ],
             "bgAnimateRadius": "bronze",
-            "link": "https://forms.reform.app/lgi4rr/candidature-rr7-bronze/wprk3g"
+            "link": "https://app.iclosed.io/e/risk-reward-7/candidature-rr7-bronze"
         },
         {
             "id": 2,
@@ -24,11 +24,13 @@
             "listFeatures": [
                 "Tous les avantages <span class='text-bronze'>Bronze</span>",
                 "Suivi 1-1 illimité",
+                "Appels en petit groupe 1 fois / semaine sur des sujets variés",
                 "Accès à un module privé et réservé aux membres Silver",
-                "Appels en petit groupe 1 fois / semaine sur des sujets variés"
+                "Récapitulatif hebdomadaire et mensuel des positions",
+                "Acquisition d’un capital institutionnel dédié aux traders performants"
             ],
             "bgAnimateRadius": "silver",
-            "link": "https://forms.reform.app/lgi4rr/candidature-rr7-silver/wprk3g"
+            "link": "https://app.iclosed.io/e/risk-reward-7/candidature-rr7-silver"
         },
         {
             "id": 3,
@@ -43,7 +45,8 @@
                 "Suivi jusqu’à la rentabilité"
             ],
             "bgAnimateRadius": "gold",
-            "link": "https://forms.reform.app/lgi4rr/candidature-rr7-gold/wprk3g"
+            "link": "https://app.iclosed.io/e/risk-reward-7/candidature-rr7-gold"
         }
-    ]
+    ],
+    "packInitiationLink": "https://app.iclosed.io/e/risk-reward-7/candidature-rr7-initiation"
 }
