@@ -66,6 +66,23 @@ main {
     background-color: #0b0e14;
 }
 
+
+.rainbowBorderCta {
+    border-radius: 30px;
+    background: linear-gradient(90deg, #02fcef70, #ffb52b70 50%, #a02bfe70);
+
+    line-height: 0;
+    transition: transform .2s ease-in-out;
+    transform-origin: 0 100%;
+}
+.rainbowBorderCta > div {
+    line-height: 1;
+    margin: 1px;
+    border-radius: 30px;
+    width: calc(100% - 2px);
+    height: calc(100% - 2px);
+    background-color: #0b0e14;
+}
 .text-bronze {
     color: #dd9072;
 }
