@@ -8,7 +8,7 @@ const InitiationStephSection = () => {
                 <div className="flex flex-col xl:max-w-[700px] gap-4">
                     <h2 className="font-['Nexa-Bold'] text-white text-5xl xl:text-left text-center">Pack d’initiation</h2>
                     <p className="font-['Nexa-Bold'] text-white xl:text-left text-center">Le Pack d'Initiation te plonge dans l'univers exclusif de RR7 avec un accès
-                        privilégié à notre technologie d'apprentissage avancée. Apprends les bases essentielles
+                        anticipé à notre technologie d'apprentissage avancée. Apprends les bases essentielles
                         avant de te lancer dans le cursus classique de RR7,  grâce à un système éducatif complet
                         incluant des idées d'investissement et des sessions live pour maximiser tes chances de réussite dès le départ.</p>
                 </div>
