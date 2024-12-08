@@ -5,7 +5,7 @@ module.exports = {
   siteMetadata: {
     title: `Candidater à RR7`,
     siteUrl: `https://candidater-rr7.com`,
-    image: `/icon.png`,
+    image: `/images/icon.png`,
   },
   plugins: ["gatsby-plugin-postcss", "gatsby-plugin-image", "gatsby-plugin-mdx", "gatsby-plugin-sharp", "gatsby-transformer-sharp", {
     resolve: 'gatsby-source-filesystem',

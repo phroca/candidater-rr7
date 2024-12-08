@@ -18,7 +18,7 @@ const HeroSection = (props) => {
                             Ne candidate pas si tu n’es pas prêt à t’investir dans ta propre réussite.
                         </h1>
                         <p className="font-['Nexa-Light'] text-white sans mb-8 mt-4 text-center leading-7 xl:text-left text-base md:text-[1.125rem] md:leading-[1.5] text-slate-11 font-normal">
-                            Le choix de ta formation en trading est crucial et doit être parfaitement adapté à ton profil et à tes objectifs. Nous t’offrons la flexibilité de personnaliser ton parcours avec des formules renouvelables et modifiables sous 30 jours, te permettant ainsi d'optimiser ton apprentissage à tout moment.
+                            Prêt à franchir le pas ? RR7 est à vos côtés pour chaque étape de votre transformation. Nous te donnons les outils et le soutien pour transformer ton potentiel en succès. + de 300 personnes ont déjà fait le choix de transformer leur avenir avec RR7.
                         </p>
                     </div>
                     <div className="relative order-1 transform-gpu xl:order-2 xl:w-[650px] items-center justify-center xl:flex lg:animate-[open-scale-up-fade_1.5s_ease-in-out] before:from-green-5/5 before:to-yellow-6/25 before:absolute before:left-0 before:top-0 before:block before:h-full before:w-full before:rounded-full before:bg-gradient-to-br before:blur-[100px] before:content-['']">
