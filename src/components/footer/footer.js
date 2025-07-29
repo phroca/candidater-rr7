@@ -18,7 +18,7 @@ const Footer = () => {
 
             <div className="w-full py-4 flex flex-row justify-between items-center border-t-[1px] border-slate-500">
                 <div className=" text-white text-sm font-bold font-['Nexa-Light']">Designed by KAIZIX</div>
-                <div className=" text-white text-sm font-bold font-['Nexa-Light']">2024 RR7 - Tous droits réservés</div>
+                <div className=" text-white text-sm font-bold font-['Nexa-Light']">2025 RR7 - Tous droits réservés</div>
             </div>
         </div>
     )
