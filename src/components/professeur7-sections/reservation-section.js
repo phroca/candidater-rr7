@@ -10,7 +10,7 @@ const ReservationSection = () => {
                 Ça commence par une décision.
 
             </h2>
-            <div className="flex flex-row gap-8">
+            <div className="flex flex-col-reverse md:flex-row gap-8">
                 <div className="flex flex-col gap-8 items-start justify-between">
                     <div className="flex flex-col gap-4">
                         <h3 className="font-['Nexa-Bold'] text-white text-xl md:text-2xl text-left">

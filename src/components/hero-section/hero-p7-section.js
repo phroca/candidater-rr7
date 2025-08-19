@@ -5,7 +5,7 @@ import LogoCanvas from "../canvas/logo"
 const HeroP7Section = (props) => {
 
     return (
-        <div className="flex flex-col items-center justify-center py-16 px-6">
+        <div className="flex flex-col items-center justify-center py-2 md:py-16 px-6">
             <section className="mx-auto xl:h-[70vh] xl:max-h-[950px]">
                 <div className="flex h-full flex-col items-center justify-between xl:flex-row ">
                     <div className="order-2 xl:order-1 max-w-3xl animate-hero-text-slide-up-fade sm:shrink-0 xl:pl-16">
@@ -14,10 +14,10 @@ const HeroP7Section = (props) => {
                                 <span className="font-['Nexa-Light'] text-white inline-flex items-center gap-1 whitespace-nowrap px-3 py-1">Risk Reward 7</span>
                             </h3>
                         </div>
-                        <h1 className="font-['Nexa-Bold'] font-styling text-white font-display font-effect-hero text-center xl:text-left text-[3rem] md:text-5xl leading-[3rem] md:leading-[3rem] tracking-tight font-gradient">
+                        <h1 className="font-['Nexa-Bold'] font-styling text-white font-display font-effect-hero text-center xl:text-left text-[2rem] md:text-5xl leading-[2rem] md:leading-[3rem] tracking-tight font-gradient">
                             Et si tu pouvais (enfin) comprendre les marchés, construire un capital solide…
                             <br />
-                            <span className="text-white font-['Nexa-Light'] text-[3rem] md:text-4xl ">… et avancer avec confiance grâce à un cadre qui a fait ses preuves ?</span>
+                            <span className="text-white font-['Nexa-Light'] text-[2rem] md:text-4xl ">… et avancer avec confiance grâce à un cadre qui a fait ses preuves ?</span>
                         </h1>
                         <p className="font-['Nexa-Light'] text-white sans mb-8 mt-4 text-center leading-7 xl:text-left text-base md:text-[1.125rem] md:leading-[1.5] text-slate-11 font-normal">
                             <b>Tu t'es déjà formé.</b><br />
